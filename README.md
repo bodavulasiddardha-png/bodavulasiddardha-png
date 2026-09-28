@@ -1,57 +1,91 @@
-<div align="center">
+<img src="assets/readme-kit/hero.svg" width="100%" alt="Siddardha Bodavula - AI Automation Engineer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:00b4d8&height=190&section=header&text=Siddardha%20Bodavula&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%C2%B7%20Agentic%20AI&descSize=20&descAlignY=60" alt="header" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bodavula-naga-venkata-siddardha-9422412a6/"><img src="assets/readme-kit/button-linkedin.svg" height="44" alt="LinkedIn"/></a>
+  <a href="https://siddu-portfolio-omega.vercel.app"><img src="assets/readme-kit/button-portfolio.svg" height="44" alt="Portfolio"/></a>
+  <a href="mailto:bodavulasiddardha@gmail.com"><img src="assets/readme-kit/button-email.svg" height="44" alt="Email"/></a>
+  <a href="https://www.youtube.com/@worth_knowing2"><img src="assets/readme-kit/button-youtube.svg" height="44" alt="YouTube"/></a>
+</p>
 
-<a href="https://github.com/bodavulasiddardha-png">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=I+build+AI+agents+that+run+unattended;LLM+workflows+%C2%B7+WhatsApp+bots+%C2%B7+voice+agents;Claude+Code+directed%2C+shipped+end+to+end;Open+to+AI+Automation+%2F+Agentic+AI+internships" alt="typing intro"/>
-</a>
+<img src="assets/readme-kit/terminal.svg" width="100%" alt="terminal"/>
 
-<a href="https://www.linkedin.com/in/bodavula-naga-venkata-siddardha-9422412a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://siddu-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b132b?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
-<a href="mailto:bodavulasiddardha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://navaprastha.pages.dev"><img src="https://img.shields.io/badge/NavaPrastha-00b4d8?style=for-the-badge&logoColor=white"/></a>
+<img src="assets/readme-kit/divider.svg" width="100%" alt=""/>
 
-</div>
-
-## ⚡ About
-B.Tech CSE '26. I design, ship and **operate** AI automations in production — I direct Claude Code from requirements to architecture, tests and live monitoring. I run **NavaPrastha**, a websites + WhatsApp-automation studio for small businesses.
-
-## 🚀 What's running / built
-| | Project | What it does |
-|---|---|---|
-| 🟢 live | **WhatsApp lead-gen bot** (n8n + WAHA + LLM) | Classifies inbound leads, auto-replies in real time, syncs qualified leads to Google Sheets — serves a paying client |
-| 🟢 live | **[unknownbhaarath](https://github.com/bodavulasiddardha-png/unknownbhaarath)** | Autonomous, self-healing content agent on GitHub Actions: research → fact-check → design → publish, 3 posts/day |
-| 🟡 prototype | **Voice agent** (Bolna + Deepgram + Groq + Twilio + self-hosted Telugu TTS) | Inbound calls in Telugu/English; works end to end, TTS latency is the open problem |
-| 🟢 built | **[n8n AI workflows](https://github.com/bodavulasiddardha-png/N8N-Automation-Workflows)** | Gmail triage agent (Claude) and an AI job-match bot → Telegram |
-
-## 🧰 Toolbox
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,nodejs,react,nextjs,threejs,docker,githubactions,cloudflare,vercel,git,vscode&perline=12"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp_Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-
-</div>
-
-## 🐍 Contribution snake
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bodavulasiddardha-png/bodavulasiddardha-png/output/github-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/bodavulasiddardha-png/bodavulasiddardha-png/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-kit/header-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-kit/header-projects-light.svg">
+  <img src="assets/readme-kit/header-projects-dark.svg" width="100%" alt="Featured Projects"/>
 </picture>
-</div>
 
-## 🧊 Contributions in 3D
-<div align="center">
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
-</div>
+<p align="center">
+  <a href="https://navaprastha.pages.dev"><img src="assets/readme-kit/project-whatsapp-bot.svg" width="49%" alt="WhatsApp Lead Bot"/></a>
+  <a href="https://github.com/bodavulasiddardha-png/unknownbhaarath"><img src="assets/readme-kit/project-unknownbhaarath.svg" width="49%" alt="unknownbhaarath"/></a>
+  <a href="https://github.com/bodavulasiddardha-png/telugu-voice-agent"><img src="assets/readme-kit/project-voice-agent.svg" width="49%" alt="Telugu Voice Agent"/></a>
+  <a href="https://github.com/bodavulasiddardha-png/N8N-Automation-Workflows"><img src="assets/readme-kit/project-n8n-workflows.svg" width="49%" alt="n8n AI Workflows"/></a>
+</p>
 
-## 🧠 A decision I'm proud of
-For the voice agent I measured each stage (STT / LLM / TTS) instead of guessing. TTS was the bottleneck (~18–20 s to synthesise ~10 s of audio), so I kept it a **prototype** rather than put real callers through it — and documented the gap.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-kit/header-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-kit/header-stack-light.svg">
+  <img src="assets/readme-kit/header-stack-dark.svg" width="100%" alt="Tech Stack"/>
+</picture>
 
-<div align="center">
+<img src="assets/readme-kit/tiles.svg" width="100%" alt="tools"/>
 
-**Open to AI Automation / Agentic AI internships** · remote, Hyderabad, Bengaluru or Chennai · 📫 bodavulasiddardha@gmail.com
+<img src="assets/readme-kit/panels.svg" width="100%" alt="what I use each for"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0b132b&height=90&section=footer" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-kit/header-journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-kit/header-journey-light.svg">
+  <img src="assets/readme-kit/header-journey-dark.svg" width="100%" alt="Journey"/>
+</picture>
+
+<img src="assets/readme-kit/timeline.svg" width="100%" alt="timeline"/>
+
+<img src="assets/readme-kit/stats.svg" width="100%" alt="numbers"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-kit/header-certs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-kit/header-certs-light.svg">
+  <img src="assets/readme-kit/header-certs-dark.svg" width="100%" alt="Credentials"/>
+</picture>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%3A%20Framework%20%26%20Foundations-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deloitte%20via%20Forage-Data%20Analytics%20Simulation-86BC25?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tata%20via%20Forage-Data%20Visualisation%20Simulation-486AAE?style=for-the-badge"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-kit/header-activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-kit/header-activity-light.svg">
+  <img src="assets/readme-kit/header-activity-dark.svg" width="100%" alt="Activity"/>
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bodavulasiddardha-png/bodavulasiddardha-png/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/bodavulasiddardha-png/bodavulasiddardha-png/output/github-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center"><b>Latest videos on <a href="https://www.youtube.com/@worth_knowing2">Worth Knowing</a></b></p>
+
+<!-- VIDEOS:START -->
+<table><tr>
+<td width="33%" align="center"><a href="https://youtu.be/YLTA5BcRvCQ"><img src="https://i.ytimg.com/vi/YLTA5BcRvCQ/mqdefault.jpg" width="100%" alt="Chat GPT Writes an Essay for a Yes/No Question. These 2 New AIs Don..."/></a><br/><sub>Chat GPT Writes an Essay for a Yes/No Question. These 2 New AIs Don...</sub></td>
+<td width="33%" align="center"><a href="https://youtu.be/ANZ-K9_B_SM"><img src="https://i.ytimg.com/vi/ANZ-K9_B_SM/mqdefault.jpg" width="100%" alt="BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs..."/></a><br/><sub>BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs...</sub></td>
+<td width="33%" align="center"><a href="https://youtu.be/PJUUR7kWTcs"><img src="https://i.ytimg.com/vi/PJUUR7kWTcs/mqdefault.jpg" width="100%" alt="BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs..."/></a><br/><sub>BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs...</sub></td>
+</tr></table>
+<!-- VIDEOS:END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-kit/header-connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-kit/header-connect-light.svg">
+  <img src="assets/readme-kit/header-connect-dark.svg" width="100%" alt="Connect"/>
+</picture>
+
+<p align="center">Open to <b>AI Automation / Agentic AI internships</b> - remote, Hyderabad, Bengaluru or Chennai<br/>bodavulasiddardha@gmail.com</p>
+
+<img src="assets/readme-kit/footer.svg" width="100%" alt=""/>

@@ -1,0 +1,202 @@
+theme:
+  accent: "#22d3ee"
+
+hero:
+  name: Siddardha Bodavula
+  kicker: Hi, I am
+  role: AI Automation Engineer, Agentic AI
+  taglines:
+    - AI Automation Engineer, Agentic AI
+    - LLM agents that run unattended
+    - WhatsApp bots and Telugu voice agents
+    - n8n, Claude API, GitHub Actions
+    - Founder of NavaPrastha
+    - Open to AI internships
+  status: Open to AI internships
+  location: India, remote or Hyd / Blr / Chennai
+  constellation:
+    hub: AGENT
+    nodes: [LLM, n8n, STT, TTS, CI]
+
+terminal:
+  prompt: "sid@agents:~$"
+  title: "sid@agents: ~"
+  commands:
+    - command: whoami
+      output:
+        - "Siddardha Bodavula  |  AI Automation Engineer  |  B.Tech CSE 2026"
+    - command: ls ~/running
+      color: sky
+      output:
+        - "whatsapp-lead-bot     n8n + WAHA + LLM, live for a paying client"
+        - "unknownbhaarath       autonomous content agent, months unattended"
+    - command: cat ~/voice-agent/STATUS
+      color: amber
+      output:
+        - "prototype  Bolna + Deepgram + Groq + Twilio + self-hosted Telugu TTS"
+        - "gap        TTS latency ~18-20 s per 10 s of audio, so not in production"
+    - command: echo $NOW
+      color: green
+      output:
+        - "open to AI Automation / Agentic AI internships"
+
+headers:
+  - title: Featured Projects
+    subtitle: what I built and what it does
+    key: projects
+  - title: Tech Stack
+    subtitle: what I work with
+    key: stack
+  - title: Journey
+    subtitle: 2026 so far
+    key: journey
+  - title: Credentials
+    subtitle: verified certificates
+    key: certs
+  - title: Activity
+    subtitle: contributions and latest videos
+    key: activity
+  - title: Connect
+    subtitle: let's talk
+    key: connect
+
+divider: true
+
+timeline:
+  title: Journey
+  milestones:
+    - year: 2022
+      title: B.Tech CSE
+      subtitle: Bharath University
+    - year: 2026
+      tag: Apr
+      title: First builds on GitHub
+      subtitle: Edunova, n8n agents
+    - year: 2026
+      tag: Jun
+      title: Autonomous agent live
+      subtitle: unknownbhaarath on Actions
+    - year: 2026
+      tag: Sep
+      title: Voice agent prototype
+      subtitle: Telugu STT / LLM / TTS
+
+stats:
+  - value: "5"
+    label: AI systems built
+  - value: "100+"
+    label: days content agent live
+    color: sky
+  - value: "1"
+    label: paying client on a live bot
+    color: sky
+  - value: "4"
+    label: certificates
+
+tiles:
+  title: Daily tools
+  items:
+    - name: n8n
+      logo: https://cdn.simpleicons.org/n8n/ffffff
+    - name: Claude
+      logo: https://cdn.simpleicons.org/anthropic/ffffff
+    - name: Python
+      logo: https://cdn.simpleicons.org/python/ffffff
+    - name: Docker
+      logo: https://cdn.simpleicons.org/docker/ffffff
+    - name: Actions
+      logo: https://cdn.simpleicons.org/githubactions/ffffff
+    - name: Cloudflare
+      logo: https://cdn.simpleicons.org/cloudflare/ffffff
+
+panels:
+  title: What I use each for
+  items:
+    - title: Automation and agents
+      entries:
+        - text: n8n workflows
+        - text: WAHA / whatsmeow WhatsApp
+        - text: GitHub Actions cron agents
+        - text: agent design, guardrails
+    - title: LLMs
+      entries:
+        - text: Claude API, Claude Code
+        - text: Groq (gpt-oss, Llama)
+        - text: prompt engineering
+        - text: LLM lead classification
+    - title: Voice
+      entries:
+        - text: Bolna voice framework
+        - text: Deepgram STT, Twilio
+        - text: self-hosted Telugu TTS
+        - text: latency measured per stage
+    - title: Web
+      entries:
+        - text: React, Next.js
+        - text: Three.js, GSAP
+        - text: Cloudflare Pages
+        - text: Node.js, Puppeteer
+
+projects:
+  - title: WhatsApp Lead Bot
+    date: 2026
+    description: >-
+      Production WhatsApp bot on n8n and WAHA. An LLM classifies each inbound lead,
+      replies in real time and syncs qualified leads to Google Sheets. Serves live
+      traffic for a paying education client.
+    tech: [n8n, WAHA, LLM, Google Sheets]
+    live: true
+    url: https://navaprastha.pages.dev
+    key: whatsapp-bot
+  - title: unknownbhaarath
+    date: Jun 2026
+    description: >-
+      Autonomous, self-healing content agent on GitHub Actions. Researches,
+      fact-checks, designs and publishes 3 posts a day with a 4-layer fallback
+      chain. Running unattended for months.
+    tech: [GitHub Actions, Claude, Groq, Puppeteer, Node.js]
+    live: true
+    url: https://github.com/bodavulasiddardha-png/unknownbhaarath
+    key: unknownbhaarath
+  - title: Telugu Voice Agent
+    date: Sep 2026
+    description: >-
+      Inbound voice agent that answers calls in Telugu and English. Custom Bolna
+      synthesizer on a self-hosted Telugu TTS server. Works end to end; TTS latency
+      is the open problem, so it stays a prototype.
+    tech: [Bolna, Deepgram, Groq, Twilio, FastAPI]
+    url: https://github.com/bodavulasiddardha-png/telugu-voice-agent
+    key: voice-agent
+  - title: n8n AI Workflows
+    date: Jun 2026
+    description: >-
+      Gmail triage agent that classifies mail with Claude and routes it to labels
+      and Telegram, plus an AI job-match bot that scores listings against a profile.
+    tech: [n8n, Claude API, Gmail, Telegram]
+    url: https://github.com/bodavulasiddardha-png/N8N-Automation-Workflows
+    key: n8n-workflows
+
+buttons:
+  - label: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/bodavula-naga-venkata-siddardha-9422412a6/
+    key: linkedin
+  - label: Portfolio
+    icon: googlechrome
+    url: https://siddu-portfolio-omega.vercel.app
+    key: portfolio
+  - label: Email
+    icon: gmail
+    url: mailto:bodavulasiddardha@gmail.com
+    key: email
+  - label: YouTube
+    icon: youtube
+    url: https://www.youtube.com/@worth_knowing2
+    key: youtube
+
+footer:
+  kicker: Siddardha Bodavula  |  AI Automation Engineer
+  lines:
+    - Thanks for visiting
+    - Open to AI Automation internships
+    - Let's build something useful
