@@ -51,7 +51,7 @@ Markup for every card, in profile order. Copy what you need into your README; pa
 
 <img src="C:/tmp/gh_work/bodavulasiddardha-png/assets/readme-kit/tiles.svg" width="100%" alt="Daily tools: n8n; Claude; Python; Docker; Actions; Cloudflare" />
 
-<img src="C:/tmp/gh_work/bodavulasiddardha-png/assets/readme-kit/panels.svg" width="100%" alt="What I use each for: n8n workflows; WAHA / whatsmeow WhatsApp; GitHub Actions cron agents; agent design, guardrails; Claude API, Claude Code; Groq (gpt-oss, Llama); prompt engineering; LLM lead classification; Bolna voice framework; Deepgram STT, Twilio; self-hosted Telugu TTS; latency measured per stage; React, Next.js; Three.js, GSAP; Cloudflare Pages; Node.js, Puppeteer" />
+<img src="C:/tmp/gh_work/bodavulasiddardha-png/assets/readme-kit/panels.svg" width="100%" alt="What I use each for: n8n workflows; WAHA / whatsmeow WhatsApp; GitHub Actions cron agents; agent design, guardrails; Claude API, Claude Code; Groq (gpt-oss, Llama); prompt engineering; LLM lead classification; Bolna voice framework; Deepgram STT, Plivo, Twilio; self-hosted Telugu TTS; latency measured per stage; React, Next.js; Three.js, GSAP; Cloudflare Pages; Node.js, Puppeteer" />
 
 <p align="center">
 <a href="https://navaprastha.pages.dev"><img src="C:/tmp/gh_work/bodavulasiddardha-png/assets/readme-kit/project-whatsapp-bot.svg" width="49%" alt="WhatsApp Lead Bot: Production WhatsApp bot on n8n and WAHA" /></a>

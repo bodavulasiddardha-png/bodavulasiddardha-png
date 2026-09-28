@@ -33,7 +33,7 @@ terminal:
     - command: cat ~/voice-agent/STATUS
       color: amber
       output:
-        - "prototype  Bolna + Deepgram + Groq + Twilio + self-hosted Telugu TTS"
+        - "prototype  Bolna + Deepgram + Groq + Plivo/Twilio + self-hosted Telugu TTS"
         - "gap        TTS latency ~18-20 s per 10 s of audio, so not in production"
     - command: echo $NOW
       color: green
@@ -127,7 +127,7 @@ panels:
     - title: Voice
       entries:
         - text: Bolna voice framework
-        - text: Deepgram STT, Twilio
+        - text: Deepgram STT, Plivo, Twilio
         - text: self-hosted Telugu TTS
         - text: latency measured per stage
     - title: Web
@@ -164,7 +164,7 @@ projects:
       Inbound voice agent that answers calls in Telugu and English. Custom Bolna
       synthesizer on a self-hosted Telugu TTS server. Works end to end; TTS latency
       is the open problem, so it stays a prototype.
-    tech: [Bolna, Deepgram, Groq, Twilio, FastAPI]
+    tech: [Bolna, Deepgram, Groq, Plivo, FastAPI]
     url: https://github.com/bodavulasiddardha-png/telugu-voice-agent
     key: voice-agent
   - title: n8n AI Workflows
