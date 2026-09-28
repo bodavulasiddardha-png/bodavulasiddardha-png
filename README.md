@@ -24,11 +24,6 @@ B.Tech CSE '26. I design, ship and **operate** AI automations in production — 
 | 🟡 prototype | **Voice agent** (Bolna + Deepgram + Groq + Twilio + self-hosted Telugu TTS) | Inbound calls in Telugu/English; works end to end, TTS latency is the open problem |
 | 🟢 built | **[n8n AI workflows](https://github.com/bodavulasiddardha-png/N8N-Automation-Workflows)** | Gmail triage agent (Claude) and an AI job-match bot → Telegram |
 
-<div align="center">
-<a href="https://github.com/bodavulasiddardha-png/unknownbhaarath"><img src="https://gh-card.dev/repos/bodavulasiddardha-png/unknownbhaarath.svg" width="49%"/></a>
-<a href="https://github.com/bodavulasiddardha-png/N8N-Automation-Workflows"><img src="https://gh-card.dev/repos/bodavulasiddardha-png/N8N-Automation-Workflows.svg" width="49%"/></a>
-</div>
-
 ## 🧰 Toolbox
 <div align="center">
 
