@@ -74,7 +74,7 @@
 
 <!-- VIDEOS:START -->
 <table><tr>
-<td width="33%" align="center"><a href="https://youtu.be/YLTA5BcRvCQ"><img src="https://i.ytimg.com/vi/YLTA5BcRvCQ/mqdefault.jpg" width="100%" alt="Chat GPT Writes an Essay for a Yes/No Question. These 2 New AIs Don..."/></a><br/><sub>Chat GPT Writes an Essay for a Yes/No Question. These 2 New AIs Don...</sub></td>
+<td width="33%" align="center"><a href="https://youtu.be/YLTA5BcRvCQ"><img src="https://i.ytimg.com/vi/YLTA5BcRvCQ/mqdefault.jpg" width="100%" alt="Jev vs Laya vs LLM which is best | How to use system one models...!..."/></a><br/><sub>Jev vs Laya vs LLM which is best | How to use system one models...!...</sub></td>
 <td width="33%" align="center"><a href="https://youtu.be/ANZ-K9_B_SM"><img src="https://i.ytimg.com/vi/ANZ-K9_B_SM/mqdefault.jpg" width="100%" alt="BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs..."/></a><br/><sub>BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs...</sub></td>
 <td width="33%" align="center"><a href="https://youtu.be/PJUUR7kWTcs"><img src="https://i.ytimg.com/vi/PJUUR7kWTcs/mqdefault.jpg" width="100%" alt="BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs..."/></a><br/><sub>BRICS 2026, India’s Space Station &amp; AI’s Biggest Breakthroughs...</sub></td>
 </tr></table>
