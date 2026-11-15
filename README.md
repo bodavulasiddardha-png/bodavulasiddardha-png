@@ -74,9 +74,9 @@
 
 <!-- VIDEOS:START -->
 <table><tr>
+<td width="33%" align="center"><a href="https://youtu.be/HoLtfrSzhgI"><img src="https://i.ytimg.com/vi/HoLtfrSzhgI/mqdefault.jpg" width="100%" alt="Building a Startup: WITH AI vs WITHOUT AI 🔥 | Telugu Startup Story..."/></a><br/><sub>Building a Startup: WITH AI vs WITHOUT AI 🔥 | Telugu Startup Story...</sub></td>
 <td width="33%" align="center"><a href="https://youtu.be/NK4GTwR4uHc"><img src="https://i.ytimg.com/vi/NK4GTwR4uHc/mqdefault.jpg" width="100%" alt="N8N, Telegram Bot, ngrok and Claude: Free Setup for Your AI Agent"/></a><br/><sub>N8N, Telegram Bot, ngrok and Claude: Free Setup for Your AI Agent</sub></td>
 <td width="33%" align="center"><a href="https://youtu.be/5YwlzCeAYqY"><img src="https://i.ytimg.com/vi/5YwlzCeAYqY/mqdefault.jpg" width="100%" alt="Free AI Job Agent on Telegram: n8n + Claude (Demo)"/></a><br/><sub>Free AI Job Agent on Telegram: n8n + Claude (Demo)</sub></td>
-<td width="33%" align="center"><a href="https://youtu.be/dqLXp8Wz8OM"><img src="https://i.ytimg.com/vi/dqLXp8Wz8OM/mqdefault.jpg" width="100%" alt="OpenAI Dots Explained in Telugu: Chat GPT Ippudu Pani Kuda Chestund..."/></a><br/><sub>OpenAI Dots Explained in Telugu: Chat GPT Ippudu Pani Kuda Chestund...</sub></td>
 </tr></table>
 <!-- VIDEOS:END -->
 
